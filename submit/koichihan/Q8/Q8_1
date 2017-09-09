@@ -1,0 +1,6 @@
+
+def str_downcase(str1)
+str1 = str1.downcase
+str1.split
+end
+p str_downcase("HELLO WORLD")
